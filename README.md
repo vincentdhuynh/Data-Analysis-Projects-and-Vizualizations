@@ -12,3 +12,9 @@ Collection of SQL data analysis projects, illustrating a journey through intrica
 
 # Projects
 <h2>Company Employees - SQL & Tableau Visualization Project</h2>
+MySQL & Tableau integration project for analyzing employee data and visualizing the findings across the departments for management including
+
+<br>&#x2022; What is breakdown between the male and female employees working in the company each year, starting from 1990?
+<br>&#x2022; What is the number of male managers to the number of female managers from different departments for each year, starting from 1990?
+<br>&#x2022; What is the average salary of female versus male employees in the entire company until year 2002? Need to filter out by departments.
+<br>&#x2022; etc.
