@@ -11,6 +11,12 @@ Collection of SQL data analysis projects, illustrating a journey through intrica
 <br>&#x2022; Tableau
 
 # Projects
+
+<h2>Cyclistic BikeShare Analysis</h2>
+Microsoft Excel, MySQL and Tableau project for analyzing bikeshare data to determine the difference between casual riders and members.
+
+<br>&#x2022; How do annual members and casual riders use Cyclistic bikes differently? 
+
 <h2>Company Employees - SQL & Tableau Visualization Project</h2>
 MySQL & Tableau integration project for analyzing employee data and visualizing the findings across the departments for management including
 
@@ -18,3 +24,4 @@ MySQL & Tableau integration project for analyzing employee data and visualizing 
 <br>&#x2022; What is the number of male managers to the number of female managers from different departments for each year, starting from 1990?
 <br>&#x2022; What is the average salary of female versus male employees in the entire company until year 2002? Need to filter out by departments.
 <br>&#x2022; etc.
+
