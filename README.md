@@ -4,11 +4,12 @@ Collection of SQL data analysis projects, illustrating a journey through intrica
 
 <h1> Software and Languages </h1>
 <h2>Languages</h2>
-&#x2022; SQL
+<br>&#x2022; SQL
 <br>&#x2022; MySQL
 <h2>Tools</h2>
 <br>&#x2022; MySQL WorkBench
 <br>&#x2022; Tableau
+<br>&#x2022; Microsoft Excel
 
 # Projects
 
